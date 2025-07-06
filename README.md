@@ -11,3 +11,6 @@ Track progress, project completion, and skill acquisition over 18 months
 ## What Makes This System Unique
 
 Integrates Anki for SRS, Obsidian for knowledge graphing, and GitHub for a public portfolio.
+
+:) 
+:)
